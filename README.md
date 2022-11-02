@@ -1,7 +1,7 @@
 # Focused crawler
 
 <!-- ABOUT THE PROJECT AND TECHNOLOGIES-->
-## About The Project
+## :star2: About The Project
 
 ![Architecture](https://github.com/pjordann/Focused-crawler/blob/main/images/imagen_abstract.png)
 
@@ -15,13 +15,14 @@ This projects aims to:
 * After being extracted, data must be analyze and processed correctly
 * At the end, user must be able to make advanced searches interactively over this data
 
-### Built With
+### :space_invader: Built With
 
 * [![React][React.js]][React-url]
 * [![Material--UI][MaterialUI]][MaterialUI-url]
 * [![Node][Node.js]][Node-url]
 * [![Python][Python]][Python-url]
 * [![Java][Java]][Java-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -84,3 +85,5 @@ Project Link: [https://github.com/pjordann/Focused-crawler](https://github.com/p
 [Python-url]: https://www.python.org/
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/es/
+[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
