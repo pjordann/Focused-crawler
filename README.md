@@ -76,6 +76,10 @@ To set up project locally, you will need to have some tools installed
 Examples:
 
 * Login
+<p float="left">
+  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/imagen_abstract.png" height="200" />
+  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/imagen_abstract.png" height="200" />
+</p>
 
 <!-- CONTACT -->
 ## :handshake: Contact
