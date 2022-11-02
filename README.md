@@ -69,7 +69,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## :handshake: Contact
 
-Pablo Jordán Lucia - [Linkedin profile](www.linkedin.com/in/pablo-jordán-b15ab1226) - pjordanlucia@gmail.com
+Pablo Jordán Lucia - [Linkedin profile](https://www.linkedin.com/in/pablo-jord%C3%A1n-b15ab1226/) - pjordanlucia@gmail.com
 
 Project Link: [https://github.com/pjordann/Focused-crawler](https://github.com/pjordann/Focused-crawler)
 
