@@ -5,14 +5,15 @@
 
 ![Architecture](https://github.com/pjordann/Focused-crawler/blob/main/images/imagen_abstract.png)
 
-Explicar bien el proyecto
+Due to various reasons, such as platform limitations, poor quality data or poor management, it is currently difficult to search for quality information on public web portals. Generally, the search engines of web portals (sometimes built above Google technology) are not able to categorize the pages correctly. In addition to this, they often do not have the ability to filter information by pages containing forms or different types of files. In fact, even the results offered to the user are usually quite poor and inconclusive. The result of all this is that currently, much of the information that is offered on public portals (and that third parties give value to), is hidden.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+This project seeks to help solve this problem by developing a system composed of a web crawler, a set of processes responsible for information processing and a search engine. The crawler (extending its default functionality) retrieves the portal pages, the information processing system classifies and annotates those that have to do with databases or data files, and the search engine allows searching on the resources that have been processed by the previous system. In this way, it is possible to have a portal where documents containing "databases" can be found more easily, i.e., data access and search is facilitated, an aspect that plays a very important role in today's information society.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This projects aims to:
+* Extract data from [Minsterio de Agricultura, Pesca y Alimentación](https://www.mapa.gob.es/es/)
+* Configure the crawler to behave exactly as it is required
+* After being extracted, data must be analyze and processed correctly
+* At the end, user must be able to make advanced searches interactively over this data
 
 ### Built With
 
