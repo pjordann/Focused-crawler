@@ -1,0 +1,263 @@
+/* layout */
+
+/* CARD */
+.botonesCard {
+  margin-top: 20px;
+}
+
+.relevancia {
+  margin-top: 10px;
+}
+
+.estrellas {
+  vertical-align: baseline;
+}
+
+.fechaPub {
+  margin-top: 10px;
+}
+
+/* el puto position:absolute + pointer-events:none lo resuelve pero deja 
+ * inclickables los botones de editar y Like.
+ */
+.espacioizquierda {
+  position: absolute;
+  left: 70%;
+}
+
+/* HEADER (no la uso)*/
+.customCabecera {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+/* ORDER 
+ * Alinear texto con el botón: https://www.w3docs.com/snippets/css/how-to-vertically
+ -align-the-text-with-a-large-font-awesome-icon.html 
+ */
+.customOrdenar {
+  margin-top: 20px;
+  margin-left: 500px;
+  line-height: 31px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.AppFiltroIcono {
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+}
+
+/* Mostrar resultados de elementos recuperados y el tiempo empleado */
+/* He tocado el margin-bottom que estaba a 10px y el margin-right que no estaba antes*/
+.statResult {
+  font-style: italic;
+  font-size: 14px;
+  /*margin-bottom: 8px;*/
+  /*margin-right: 248px;*/
+  width: 100%;
+  text-align: left;
+}
+
+/* estilo de los botones Contenido Noticia Formulario */
+.botoncitosFormulario .botNotFormCont {
+  background-color: #3f453e;
+  color: white;
+}
+
+/* Inputs de Editar */
+.swal2-input {
+  font-size: 18px !important;
+  font-family: Georgia, serif;
+  width: 400px !important;
+}
+
+.swal2-popup {
+  width: 700px !important;
+}
+
+.input-container {
+  display: table-row;
+}
+.input-container * {
+  display: table-cell;
+  margin-left: 5px;
+}
+
+.textoLabel {
+  text-align: left;
+}
+
+/* De Editar también, la confirmación de que ha ido bien */
+.colored-toast.swal2-icon-success {
+  background-color: #a5dc86 !important;
+}
+.colored-toast.swal2-icon-error {
+  background-color: #f27474 !important;
+}
+.colored-toast .swal2-title {
+  color: white;
+}
+.colored-toast .swal2-close {
+  color: white;
+}
+.colored-toast .swal2-html-container {
+  color: white;
+}
+
+/* resto */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.col {
+  flex: 1;
+  padding: 15px;
+}
+
+.row > .col:first-child {
+  border-right: 1px solid #ccc;
+  max-width: 400px;
+}
+
+.row > .col:last-child {
+  background: #fafafa;
+}
+
+.flex {
+  display: flex;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
+
+@media all and (max-width: 767px) {
+  .row {
+    flex-direction: column;
+  }
+
+  .row > .col:first-child {
+    border-right: none;
+    max-width: none;
+  }
+}
+
+/* apps */
+a {
+  color: inherit;
+}
+.url {
+  color: #9d9d9d;
+  font-weight: bold;
+}
+
+.specific-url  {
+  color: #9d9d9d;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.ratings-list {
+  padding: 10px 0;
+}
+
+.avg-rating {
+  color: #6b6b6b;
+  margin-left: 5px;
+}
+
+.stars {
+  color: gold;
+}
+
+.location {
+  color: salmon;
+  margin-right: 5px;
+}
+
+.meetup-location {
+  margin: 4px 0;
+}
+
+.page-title {
+  white-space: normal;
+  margin-top: 4px;
+}
+
+.book-title-card {
+  white-space: normal;
+  margin-top: 4px;
+  max-height: 45px;
+}
+
+.book-image {
+  height: 150px;
+  width: 110px;
+  background-size: cover;
+}
+
+.book-header {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.book-content {
+  background: white;
+  margin: 10px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.meetup-title {
+  white-space: normal;
+}
+
+.meetup-topics {
+  height: 35px;
+  overflow: hidden;
+}
+
+.meetup-topic {
+  background-color: #dedede;
+  color: #555;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.meetup-topic:first-child {
+  margin-left: 0;
+}
+
+.col .meetup-list-image {
+  background-size: cover;
+}

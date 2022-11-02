@@ -1,0 +1,10 @@
+.imagen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+.texto {
+  text-align: center;
+}
