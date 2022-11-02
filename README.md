@@ -17,7 +17,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Material--UI][MaterialUI][MaterialUI-url]
+* [![Material--UI][MaterialUI]][MaterialUI-url]
 * [![Node][Node.js]][Node-url]
 * [![Python][Python]][Python-url]
 * [![Java][Java]][Java-url]
