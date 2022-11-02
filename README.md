@@ -1,14 +1,11 @@
 # Focused crawler
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Poner una imagen a alto nivel del proyecto
 
 Explicar esa imagen
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
