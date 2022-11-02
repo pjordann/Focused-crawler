@@ -76,8 +76,8 @@ To set up project locally, you will need to have some tools installed
 Examples:
 
 * Login (con validación de campos)
-Página principal de login
-![Login](https://github.com/pjordann/Focused-crawler/blob/main/images/login.png)
+<br/>
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" width="200"/>
 
 <!-- CONTACT -->
 ## :handshake: Contact
