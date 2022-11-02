@@ -1,6 +1,6 @@
 # Focused crawler
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT AND TECHNOLOGIES-->
 ## About The Project
 
 Poner una imagen a alto nivel del proyecto
@@ -13,10 +13,6 @@ Explicar esa imagen
 * [![Node][Node.js]][Node-url]
 * [![Python][Python]][Python-url]
 * [![Java][Java]][Java-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
