@@ -57,14 +57,25 @@ To set up project locally, you will need to have some tools installed
    ```
    ```sh
    npm install
-3. See results by accessing [here](http://localhost:3003/)
 
 <!-- USAGE EXAMPLES -->
 ## :eyes: Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Fire up backend
+   ```sh
+   cd Focused-crawler/backend
+   npm start
+   ```
+2. Fire up client
+   ```sh
+   cd Focused-crawler/cliente
+   npm start
+   ```
+3. See results by accessing [here](http://localhost:3003/)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Examples:
+
+* Login
 
 <!-- CONTACT -->
 ## :handshake: Contact
