@@ -73,6 +73,13 @@ Pablo Jordán Lucia - [Linkedin profile](https://www.linkedin.com/in/pablo-jord%
 
 Project Link: [https://github.com/pjordann/Focused-crawler](https://github.com/pjordann/Focused-crawler)
 
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+ - [Shields.io](https://shields.io/)
+ - [README template](https://github.com/othneildrew/Best-README-Template)
+ - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
