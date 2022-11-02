@@ -12,6 +12,7 @@ Explicar esa imagen
 * [![React][React.js]][React-url]
 * [![Node][Node.js]][Node-url]
 * [![Python][Python]][Python-url]
+* [![Java][Java]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,3 +148,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Node-url]: https://nodejs.org/en/
 [Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/es/
