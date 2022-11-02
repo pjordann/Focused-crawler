@@ -10,7 +10,7 @@ Explicar esa imagen
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![node] [Node.js]] [Node-url]
+* [![Node][Node.js]] [Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
