@@ -75,11 +75,10 @@ To set up project locally, you will need to have some tools installed
 
 Examples:
 
-* Login/Registro (con validación de campos)
-<p float="left">
-  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" width="200"/>
+* Login (con validación de campos)
+  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" width="300"/>
+* Registro (con validación de campos)
   <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" height="250" width="200"/>
-</p>
 
 <!-- CONTACT -->
 ## :handshake: Contact
