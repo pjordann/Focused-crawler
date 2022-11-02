@@ -25,7 +25,7 @@ This projects aims to:
 * [![MongoDB][MongoDB]][MongoDB-url]
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :toolbox: Getting Started
 
 To set up project locally, you will need to have some tools installed
 
@@ -39,7 +39,7 @@ To set up project locally, you will need to have some tools installed
   npm -v
   ```
 
-### Installation
+### :gear: Installation
 
 1. Clone the repo
    ```sh
@@ -60,14 +60,14 @@ To set up project locally, you will need to have some tools installed
 3. See results by accessing [here](http://localhost:3003/)
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## :eyes: Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTACT -->
-## Contact
+## :handshake: Contact
 
 Pablo Jordán Lucia - [Linkedin profile](www.linkedin.com/in/pablo-jordán-b15ab1226) - pjordanlucia@gmail.com
 
