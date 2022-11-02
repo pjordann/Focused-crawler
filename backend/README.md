@@ -1,4 +1,4 @@
-# REFUEL
+# Backend
 
 NodeJS + Express API for TFG project. It uses MongoDB as database.
 
@@ -10,8 +10,8 @@ NodeJS + Express API for TFG project. It uses MongoDB as database.
 
 - Install dependencies
 
-```
-cd TFG-2022/backendFC
+```sh
+cd backend
 npm install
 ```
 
@@ -27,7 +27,6 @@ Navigate to `http://localhost:3003`. Problem? You will need .env file.
 
 /api-doc
 
-
 ## Project Structure
 
 The folder structure of this app is explained below:
@@ -40,4 +39,4 @@ The folder structure of this app is explained below:
 | **src/routes**      | Contain all express routes with endpoint documentation.                                                    |
 | **src/models**      | Models define schemas that will be used in storing and retrieving data from Application database (MongoDB) |
 | app.js              | Entry point to express app                                                                                 |
-| package.json        | Contains npm dependencies                                                                                  |
+| package.json        | Contains npm dependencies   
