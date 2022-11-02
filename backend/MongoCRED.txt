@@ -1,8 +1,0 @@
-
-
-	757166
-
-	TFG_basedatos2022
-
-
-	URI: mongodb+srv://757166:TFG_basedatos2022@focusedcrawlertfg.iocut.mongodb.net/?retryWrites=true&w=majority
