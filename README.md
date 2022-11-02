@@ -77,8 +77,8 @@ Examples:
 
 * Login/Registro (con validación de campos)
 <p float="left">
-  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" height="448" width="557" />
-  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" height="448" width="557" />
+  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" />
+  <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" />
 </p>
 
 <!-- CONTACT -->
