@@ -17,6 +17,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 ### Built With
 
 * [![React][React.js]][React-url]
+* [![Material][MaterialUI][MaterialUI-url]]
 * [![Node][Node.js]][Node-url]
 * [![Python][Python]][Python-url]
 * [![Java][Java]][Java-url]
@@ -147,6 +148,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[MaterialUI]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[MaterialUI-url]: https://mui.com/
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en/
 [Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
