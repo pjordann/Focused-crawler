@@ -82,7 +82,6 @@ Examples:
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
 
 * Index page
-
 Filter by web pages that contain PDF and MSWORD files.
 <br/>
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="600"/>
