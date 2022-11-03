@@ -93,6 +93,7 @@ Examples:
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/busqueda%20autosuggest.png" width="600">
 
 * Edit fields of document (if your role allows you to fulfill this action)
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/editar.png" width="600">
 
 * Admin's Dashboard (where admin can change users role)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/dashboard%20admin.png" width="600">
