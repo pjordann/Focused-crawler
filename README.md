@@ -82,7 +82,7 @@ Examples:
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
 
 * Página principal (búsquedas, filtrados, autosugerencia...)
-<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="300"/>
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="400"/>
 
 <!-- CONTACT -->
 ## :handshake: Contact
