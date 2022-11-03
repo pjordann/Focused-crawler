@@ -92,7 +92,7 @@ Examples:
 * Autosuggest search
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/busqueda%20autosuggest.png" width="600">
 
-* Edit (if your role allows you to fulfill this action)
+* Edit fields of document (if your role allows you to fulfill this action)
 
 * Admin's Dashboard (where admin can change users role)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/dashboard%20admin.png" width="600">
