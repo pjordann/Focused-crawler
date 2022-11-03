@@ -23,6 +23,7 @@ This projects aims to:
 * [![Python][Python]][Python-url]
 * [![Java][Java]][Java-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
+* [![Elasticsearch][Elasticsearch]][Elasticsearch-url]
 
 <!-- GETTING STARTED -->
 ## :toolbox: Getting Started
@@ -118,3 +119,5 @@ Project Link: [https://github.com/pjordann/Focused-crawler](https://github.com/p
 [Java-url]: https://www.java.com/es/
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
+[Elasticsearch]: https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white
+[Elasticsearch-url]: https://www.elastic.co/es/what-is/elasticsearch
