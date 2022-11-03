@@ -75,13 +75,15 @@ To set up project locally, you will need to have some tools installed
 
 Examples:
 
-* Login (con validación de campos)
+* Login (with field validation)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/login.png" width="250"/>
 
-* Registro (con validación de campos)
+* Registro (with field validation)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
 
-* Página principal (búsquedas, filtrados, autosugerencia...)
+* Index page
+Filter by web pages that contain PDF and MSWORD files.
+<br/>
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="600"/>
 
 <!-- CONTACT -->
