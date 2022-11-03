@@ -24,6 +24,7 @@ This projects aims to:
 * [![Java][Java]][Java-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Elasticsearch][Elasticsearch]][Elasticsearch-url]
+* [![Kibana][Kibana]][Kibana-url]
 
 <!-- GETTING STARTED -->
 ## :toolbox: Getting Started
@@ -121,3 +122,5 @@ Project Link: [https://github.com/pjordann/Focused-crawler](https://github.com/p
 [MongoDB-url]: https://www.mongodb.com/
 [Elasticsearch]: https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white
 [Elasticsearch-url]: https://www.elastic.co/es/what-is/elasticsearch
+[Kibana]: https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white
+[Kibana-url]: https://www.elastic.co/es/kibana/
