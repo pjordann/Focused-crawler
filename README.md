@@ -87,6 +87,9 @@ Examples:
 * Increase the relevance of a file (in order to increase their scoring in further searches)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/like%20en%20cuenta%20admin.png" width="600"/>
 
+* Autosuggest search
+
+
 <!-- CONTACT -->
 ## :handshake: Contact
 
