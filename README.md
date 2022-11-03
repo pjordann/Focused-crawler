@@ -81,7 +81,7 @@ Examples:
 * Registro (with field validation)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
 
-* Index page (Filter by web pages that contain _**PDF**_ and _**MSWORD**_ files)
+* Index page (e.g., filter by web pages that contain _**PDF**_ and _**MSWORD**_ files)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="600"/>
 
 <!-- CONTACT -->
