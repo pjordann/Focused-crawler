@@ -81,6 +81,9 @@ Examples:
 * Registro (con validación de campos)
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
 
+* Página principal (búsquedas, filtrados, autosugerencia...)
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/registro.png" width="250"/>
+
 <!-- CONTACT -->
 ## :handshake: Contact
 
