@@ -85,7 +85,7 @@ Examples:
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/index.jpg" width="600"/>
 
 * Increase the relevance of a file (in order to increase their scoring in further searches)
-<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/like%20en%20cuenta%20admin.png" width="500"/>
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/like%20en%20cuenta%20admin.png" width="600"/>
 
 <!-- CONTACT -->
 ## :handshake: Contact
