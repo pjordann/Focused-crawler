@@ -90,7 +90,7 @@ Examples:
 <img src="https://github.com/pjordann/Focused-crawler/blob/main/images/like%20en%20cuenta%20admin.png" width="600"/>
 
 * Autosuggest search
-<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/busqueda%20autosuggest.png" width="500">
+<img src="https://github.com/pjordann/Focused-crawler/blob/main/images/busqueda%20autosuggest.png" width="600">
 
 <!-- CONTACT -->
 ## :handshake: Contact
